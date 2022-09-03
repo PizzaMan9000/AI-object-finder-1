@@ -30,3 +30,9 @@ body {
 #status, #itemFound {
     padding: 8px;
 }
+
+canvas {
+    border: white 5px solid;
+    border-radius: 10px;
+    margin-top: 400px;
+}
